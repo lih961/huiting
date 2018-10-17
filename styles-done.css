@@ -14,7 +14,7 @@ The default style sheet for the entire site.
 */
 
 body {
-    background-image: url("../Li_Huiting_Assignment_6/img/gradient1.png");
+    background-image: url("img/gradient1.png");
     background-repeat: repeat-x;
     background-size: 100% 120%;
     font-family: Geneva, Tahoma, Verdana, sans-serif;
@@ -25,7 +25,7 @@ body {
 
 header {
     background-color: #0B3861;
-    background-image: url("../Li_Huiting_Assignment_6/img/VC-FINAL-personal%20diary_%E9%A1%B5%E9%9D%A2_01.jpg");
+    background-image: url("img/VC-FINAL-personal%20diary_%E9%A1%B5%E9%9D%A2_01.jpg");
     background-repeat: no-repeat;
     background-position: bottom
     background-size: 100% 100%;
